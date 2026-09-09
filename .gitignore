@@ -1,0 +1,10 @@
+public/config.local.php
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+*.db
+*.csv
+*.log
+*.zip
+.DS_Store
