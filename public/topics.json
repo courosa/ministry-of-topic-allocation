@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Productivity, presentation, and collaboration",
+    "question": "How have authoring and collaboration tools reshaped schoolwork and education, and which assumptions about teaching and learning do they reinforce?",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "2",
+    "title": "Educational media and multimedia creation",
+    "question": "How do media forms shape whose knowledge is represented and how learners interpret, communicate, and create meaning?",
+    "date": "2026-10-06"
+  },
+  {
+    "id": "3",
+    "title": "Distance and online learning",
+    "question": "How have correspondence, broadcast, and learning management systems reshaped access, pedagogy, and educational relationships?",
+    "date": "2026-10-13"
+  },
+  {
+    "id": "4",
+    "title": "The web, social media, and networks",
+    "question": "How have networked technologies reshaped what counts as knowledge and learning and the roles of learners and educators?",
+    "date": "2026-10-20"
+  },
+  {
+    "id": "5",
+    "title": "Assistive technologies and accessible learning",
+    "question": "How do assistive technologies and accessible design reflect competing understandings of disability, participation, and independence?",
+    "date": "2026-10-27"
+  },
+  {
+    "id": "6",
+    "title": "Open resources and open education",
+    "question": "How do open resources and practices redistribute access, authority, and participation in educational knowledge creation?",
+    "date": "2026-11-03"
+  },
+  {
+    "id": "7",
+    "title": "Coding, robotics, and makerspaces",
+    "question": "How do making and programming enact theories of learning, and under what conditions do they support meaningful inquiry?",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "8",
+    "title": "Games, simulations, and immersive learning",
+    "question": "What assumptions about motivation and learning underpin these environments, and how does learning transfer beyond them?",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "9",
+    "title": "Assessment and feedback technologies",
+    "question": "How do assessment systems define and value learning, and what are the consequences for feedback and student agency?",
+    "date": "2026-11-24"
+  },
+  {
+    "id": "10",
+    "title": "Generative AI in education",
+    "question": "How does generative AI challenge or reinforce educational assumptions about knowledge, authorship, expertise, and the purposes of learning?",
+    "date": "2026-11-24"
+  }
+]
